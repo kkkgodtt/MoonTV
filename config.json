@@ -88,7 +88,10 @@
     "maot": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
-    
+     },
+    "nnzy": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
     
     }
   }
