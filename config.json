@@ -80,6 +80,15 @@
     "ffzy": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡资源"
+     },
+    "subo": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+     },
+    "maot": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    
     
     }
   }
